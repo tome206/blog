@@ -1,0 +1,15 @@
+header{
+    background-color: darkblue;
+}
+header img{
+    background: transparent;
+    height: 30px;
+    width: 60px;
+}
+header a{
+    color: beige;
+    align:center;
+}
+footer{
+    background-color: cadetblue;
+}
